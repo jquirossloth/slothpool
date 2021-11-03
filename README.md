@@ -1,0 +1,2 @@
+# slothpool
+Sloth pool metadata
